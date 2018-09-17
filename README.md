@@ -1,7 +1,7 @@
 # Python Games
 
-Coleção de Games feitas em python
+Projetos do livro Automatize tarefas maçantes com python
 
-# Advinhe o Número
+## Advinhe o Número
 
-Adivinhe o número que  a máquina está pesando
+Adivinhe o número que  a máquina está pensando
